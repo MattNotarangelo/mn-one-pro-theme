@@ -1,0 +1,21 @@
+{
+    "name": "mn-one-pro-theme",
+    "displayName": "MN-One-Pro-Theme",
+    "description": "Awesome theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MN-One-Pro-Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MN-One-Pro-Theme-color-theme.json"
+            }
+        ]
+    }
+}
