@@ -31,7 +31,7 @@
       "foreground": "#f19377"
     },
     "variable.defaultLibrary": {
-      "foreground": "#e5c07b"
+      "foreground": "#f19377"
     },
     "variable:dart": {
       "foreground": "#f19377"
@@ -47,7 +47,8 @@
     },
     "class.typeHint": {
       "foreground": "#4EC9B0"
-    }
+    },
+    "type.defaultLibrary": { "foreground": "#d686ee" }
   },
   "tokenColors": [
     {
@@ -1448,7 +1449,7 @@
       "name": "go operator",
       "scope": ["keyword.operator.assignment.go"],
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#DBE7E7"
       }
     },
     {
