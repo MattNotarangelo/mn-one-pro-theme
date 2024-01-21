@@ -15,7 +15,7 @@
     "editorBracketMatch.border": "#ff7d12f0",
     "activityBarBadge.background": "#007acc",
     "ports.iconRunningProcessForeground": "#369432",
-    "diffEditor.insertedTextBackground": "#a3f59255",
+    "diffEditor.insertedTextBackground": "#43532e",
     // "diffEditor.insertedTextBorder": "#ff0000",
     "diffEditor.removedTextBackground": "#fd545455"
     // "diffEditor.removedTextBorder": "#ff0000",
@@ -51,6 +51,20 @@
     "type.defaultLibrary": { "foreground": "#d686ee" }
   },
   "tokenColors": [
+    {
+      "name": "shell",
+      "scope": "variable.other.normal.shell",
+      "settings": {
+        "foreground": "#e9f0f0"
+      }
+    },
+    {
+      "name": "shell2",
+      "scope": "punctuation.definition.variable.shell",
+      "settings": {
+        "foreground": "#F19377"
+      }
+    },
     {
       "name": "unison punctuation",
       "scope": "punctuation.definition.delayed.unison,punctuation.definition.list.begin.unison,punctuation.definition.list.end.unison,punctuation.definition.ability.begin.unison,punctuation.definition.ability.end.unison,punctuation.operator.assignment.as.unison,punctuation.separator.pipe.unison,punctuation.separator.delimiter.unison,punctuation.definition.hash.unison",
