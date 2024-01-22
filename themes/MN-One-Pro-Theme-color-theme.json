@@ -15,7 +15,7 @@
     "editorBracketMatch.border": "#ff7d12f0",
     "activityBarBadge.background": "#007acc",
     "ports.iconRunningProcessForeground": "#369432",
-    "diffEditor.insertedTextBackground": "#43532e",
+    "diffEditor.insertedTextBackground": "#000000",
     // "diffEditor.insertedTextBorder": "#ff0000",
     "diffEditor.removedTextBackground": "#fd545455"
     // "diffEditor.removedTextBorder": "#ff0000",
@@ -47,6 +47,9 @@
     },
     "class.typeHint": {
       "foreground": "#4EC9B0"
+    },
+    "keyword": {
+      "foreground": "#d686ee"
     },
     "type.defaultLibrary": { "foreground": "#d686ee" }
   },
