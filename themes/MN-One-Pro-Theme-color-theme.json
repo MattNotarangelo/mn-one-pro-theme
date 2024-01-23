@@ -15,7 +15,7 @@
     "editorBracketMatch.border": "#ff7d12f0",
     "activityBarBadge.background": "#007acc",
     "ports.iconRunningProcessForeground": "#369432",
-    "diffEditor.insertedTextBackground": "#000000",
+    // "diffEditor.insertedTextBackground": "#000000",
     // "diffEditor.insertedTextBorder": "#ff0000",
     "diffEditor.removedTextBackground": "#fd545455"
     // "diffEditor.removedTextBorder": "#ff0000",
