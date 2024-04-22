@@ -62,6 +62,13 @@
       }
     },
     {
+      "name": "go operator",
+      "scope": ["keyword.operator.arithmetic.go", "keyword.operator.address.go"],
+      "settings": {
+        "foreground": "#d686ee"
+      }
+    },
+    {
       "name": "shell2",
       "scope": "punctuation.definition.variable.shell",
       "settings": {
@@ -599,7 +606,7 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#DBE7E7"
+        "foreground": "#d686ee"
       }
     },
     {
@@ -1481,13 +1488,7 @@
         "foreground": "#F19377"
       }
     },
-    {
-      "name": "go operator",
-      "scope": ["keyword.operator.arithmetic.go", "keyword.operator.address.go"],
-      "settings": {
-        "foreground": "#d686ee"
-      }
-    },
+
     {
       "name": "Go package name",
       "scope": ["entity.name.package.go"],
